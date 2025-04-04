@@ -17,3 +17,17 @@
 ### 2.2 Github Repository Creation 
 
 ![](./img/repo_creation.png)
+
+## 3. Repository Cloning 
+
+### 3.1 Repository Cloning and navigating into it
+
+![](./img/Git_cloning.png)
+
+### 3.2 Creation of index.html and writing code
+
+![](./img/index%20creation.png)
+
+### 3.3 Git commit, Add, and push to origin branch 
+
+![](./img/git_commit_add_push.png)
