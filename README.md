@@ -23,6 +23,8 @@
 ### 3.1 Repository Cloning and navigating into it
 
 ![](./img/Git_cloning.png)
+### Evidence for creation of branch for Tom and Jerry 
+![](./img/repo_cloning_evidence.png)
 
 ### 3.2 Creation of index.html and writing code
 
@@ -40,3 +42,8 @@
 ### 1. Cretaing of Tom's Branch and adding some text into the index.html and commiting it and pushing to the origing server 
 
 ![](./img/part2_Tom.png)
+
+
+### 2. Cretaing of Jerry's Branch and adding some text into the index.html and commiting it and pushing to the origing server 
+
+![](./img/jerry_part2.png)
