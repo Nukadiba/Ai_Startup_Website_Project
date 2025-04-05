@@ -37,6 +37,10 @@
 ## Simulating Tom and Jerrys"s Work 
 
 
-### 1. Cretaing of Tom's Branch and adding some text into the index.html and commiting it and pushing to the origing server 
+### 1. Cretaing of Tom's Branch and adding "Navigation" into the index.html and commiting it and pushing to the origing server 
 
 ![](./img/part2_Tom.png)
+
+### 2. Cretaing of Jerry's Branch and adding "contact informaton"  into the index.html and commiting it and pushing to the origing server 
+
+![](./img/jery_part2.png)
