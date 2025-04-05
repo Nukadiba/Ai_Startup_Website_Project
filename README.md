@@ -31,3 +31,12 @@
 ### 3.3 Git commit, Add, and push to origin branch 
 
 ![](./img/git_commit_add_push.png)
+
+# Part 2
+
+## Simulating Tom and Jerrys"s Work 
+
+
+### 1. Cretaing of Tom's Branch and adding some text into the index.html and commiting it and pushing to the origing server 
+
+![](./img/part2_Tom.png)
