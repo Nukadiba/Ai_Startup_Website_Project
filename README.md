@@ -43,7 +43,3 @@
 
 ![](./img/part2_Tom.png)
 
-
-### 2. Cretaing of Jerry's Branch and adding some text into the index.html and commiting it and pushing to the origing server 
-
-![](./img/jerry_part2.png)
